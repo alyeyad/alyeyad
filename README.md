@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyeyad&label=Profile%20views&color=0e75b6&style=flat" alt="alyeyad" /> </p>
 
-- 🌱 I’m currently learning **Tableau, Selenium**
+- 🌱 I’m currently learning **Supervised Machine Learning, Data Extraction using Selenium**
 
 - 📫 How to reach me **alyeyad305@gmail.com**
 
