@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aly Eyad</h1>
-<h3 align="center">Computer Science Student | Data Analyst | Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Aly Eyad Ahmad</h1>
+<h3 align="center">MSc Computer Science Student @ University of Calgary | Software Security Researcher | Data Analyst</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alyeyad&label=Profile%20views&color=0e75b6&style=flat" alt="alyeyad" />
@@ -7,8 +8,6 @@
 
 ---
 
-- 🌱 Currently learning **Supervised Machine Learning** and **Data Extraction using Selenium**
-- 🧠 Interested in **AI-driven Systems**, **Data Science**, and **Backend Development**
 - 📬 Reach me at:  
   📧 **aly.eyad.m@gmail.com**  
   📧 **aly.ahmad@ucalgary.ca**
